@@ -1,0 +1,17 @@
+{
+  "name": "mongoMongoose",
+  "version": "1.0.0",
+  "description": "basics of mongoose with mongodb",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "frankc60",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "mongoose": "^5.0.7"
+  }
+}
